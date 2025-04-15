@@ -45,6 +45,6 @@ Fork'layın, geliştirin ve PR gönderin 🚀
 Bu proje MIT lisansı ile lisanslanmıştır.
 Detaylar için LICENSE dosyasına göz atabilirsiniz.
 
-## 👨‍💻 Oluşturan: Osman Baş
+## 👨‍💻 Oluşturan: Osman Baş :
 
 📅 Oluşturulma Tarihi: 15.03.2025
