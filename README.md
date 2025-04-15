@@ -29,21 +29,22 @@ Projeyi çalıştırmak için:
 2. Xcode ile açın.
 3. Simülatörde veya fiziksel cihazda çalıştırın.
 
-##🔧 Geliştirici Notları
+## 🔧 Geliştirici Notları
 
 Bu tasarım, tamamen statik bir arayüz sunmaktadır.
 Gerçek bir API bağlantısı veya veri akışı içermemektedir.
 Daha ileri bir seviyeye taşımak isterseniz:
 Firebase, CoreData ya da REST API gibi teknolojilerle dinamik hale getirilebilir.
-##✨ Katkı Sağla
+## ✨ Katkı Sağla
 
 Her türlü katkıya açığım!
 Fork'layın, geliştirin ve PR gönderin 🚀
 
-##📄 Lisans
+## 📄 Lisans 
 
 Bu proje MIT lisansı ile lisanslanmıştır.
 Detaylar için LICENSE dosyasına göz atabilirsiniz.
 
-👨‍💻 Oluşturan: Osman Baş
+## 👨‍💻 Oluşturan: Osman Baş
+
 📅 Oluşturulma Tarihi: 15.03.2025
