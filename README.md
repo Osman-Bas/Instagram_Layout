@@ -10,3 +10,19 @@ Bu proje, SwiftUI kullanılarak oluşturulmuş bir Instagram gönderi arayüzü 
 - Açıklama ve yorum alanları
 - Gerçekçi bir sosyal medya gönderisi yapısı
 - `ScrollView` ile birden fazla gönderinin listelenmesi
+## 📄 Kullanılan Teknolojiler
+
+- **Swift**
+- **SwiftUI**
+- **Xcode 15+**
+- **AsyncImage** (iOS 15+ için)
+
+---
+
+## 🚀 Başlangıç
+
+Projeyi çalıştırmak için:
+
+1. Bu repoyu klonlayın:
+   ```bash
+   git clone https://github.com/kullaniciadi/foreach.git
