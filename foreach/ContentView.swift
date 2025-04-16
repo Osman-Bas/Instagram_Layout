@@ -92,6 +92,8 @@ struct ContentView: View {
             InstagramPost()
             InstagramPost()
             InstagramPost()
+            InstagramPost()
+            InstagramPost()
         }
     }
 }
