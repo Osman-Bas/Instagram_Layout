@@ -60,7 +60,7 @@ struct InstagramPost: View {
             .padding(.bottom, 5)
 
             HStack{
-                Text("Kullanıcı Adı")
+                Text("User Name")
                     .font(.subheadline)
                     .bold()
                 Text("Post Açıklaması")
