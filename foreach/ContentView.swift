@@ -63,7 +63,7 @@ struct InstagramPost: View {
                 Text("Kullanıcı Adı")
                     .font(.subheadline)
                     .bold()
-                Text("Burası Kullanıcının Açıklaması")
+                Text("Post Açıklaması")
                     .font(.subheadline)
             }
             .padding(.horizontal)
