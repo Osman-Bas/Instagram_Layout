@@ -29,7 +29,7 @@ Projeyi çalıştırmak için:
 2. Xcode ile açın.
 3. Simülatörde veya fiziksel cihazda çalıştırın.
 
-## 🔧 Geliştirici Notları
+## 🔧 Geliştirici Notları:
 
 Bu tasarım, tamamen statik bir arayüz sunmaktadır.
 Gerçek bir API bağlantısı veya veri akışı içermemektedir.
