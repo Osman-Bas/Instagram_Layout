@@ -19,7 +19,7 @@ Bu proje, SwiftUI kullanılarak oluşturulmuş bir Instagram gönderi arayüzü 
 
 ---
 
-## 🚀 Başlangıç
+## 🚀 Başlangıç:
 
 Projeyi çalıştırmak için:
 
