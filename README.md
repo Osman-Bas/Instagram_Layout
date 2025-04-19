@@ -10,7 +10,7 @@ Bu proje, SwiftUI kullanılarak oluşturulmuş bir Instagram gönderi arayüzü 
 - Açıklama ve yorum alanları
 - Gerçekçi bir sosyal medya gönderisi yapısı
 - `ScrollView` ile birden fazla gönderinin listelenmesi
-## 📄 Kullanılan Teknolojiler
+## 📄 Kullanılan Teknolojiler:
 
 - **Swift**
 - **SwiftUI**
