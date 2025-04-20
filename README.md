@@ -5,7 +5,7 @@ Bu proje, SwiftUI kullanılarak oluşturulmuş bir Instagram gönderi arayüzü 
 ## 🛠️ Özellikler:
 
 - Profil resmi ve Instagram’a özgü renkli çerçeve tasarımı.
-- Gönderi görseli (placeholder ile)
+- Gönderi görseli (placeholder ile).
 - Beğeni, yorum, paylaş ve kaydet ikonları
 - Açıklama ve yorum alanları
 - Gerçekçi bir sosyal medya gönderisi yapısı
