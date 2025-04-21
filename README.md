@@ -35,7 +35,7 @@ Bu tasarım, tamamen statik bir arayüz sunmaktadır.
 Gerçek bir API bağlantısı veya veri akışı içermemektedir.
 Daha ileri bir seviyeye taşımak isterseniz:
 Firebase, CoreData ya da REST API gibi teknolojilerle dinamik hale getirilebilir.
-## ✨ Katkı Sağla
+## ✨ Katkı Sağla:
 
 Her türlü katkıya açığım!
 Fork'layın, geliştirin ve PR gönderin 🚀
