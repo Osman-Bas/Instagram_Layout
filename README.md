@@ -40,7 +40,7 @@ Firebase, CoreData ya da REST API gibi teknolojilerle dinamik hale getirilebilir
 Her türlü katkıya açığım!
 Fork'layın, geliştirin ve PR gönderin 🚀
 
-## 📄 Lisans 
+## 📄 Lisans:
 
 Bu proje MIT lisansı ile lisanslanmıştır.
 Detaylar için LICENSE dosyasına göz atabilirsiniz.
