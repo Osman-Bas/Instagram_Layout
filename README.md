@@ -42,7 +42,7 @@ Fork'layın, geliştirin ve PR gönderin 🚀
 
 ## 📄 Lisans:
 
-Bu proje MIT lisansı ile lisanslanmıştır..
+Bu proje MIT lisansı ile lisanslanmıştır.
 Detaylar için LICENSE dosyasına göz atabilirsiniz.
 
 ## 👨‍💻 Oluşturan: Osman Baş :
