@@ -38,7 +38,7 @@ Firebase, CoreData ya da REST API gibi teknolojilerle dinamik hale getirilebilir
 ## ✨ Katkı Sağla:
 
 Her türlü katkıya açığım!
-Fork'layın, geliştirin ve PR gönderin 🚀
+Fork'layın, geliştirin ve PR gönderin 🚀.
 
 ## 📄 Lisans:
 
